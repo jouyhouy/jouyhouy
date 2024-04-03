@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jouyhouy
-- 👀 I’m interested in IT.
+- 👀 I’m interested in Information Technology, specificly Android Development, Artificial Intelligence, Web Development and so on. 
 - 🌱 I’m currently majoring in Electrical and Computer Engineering at ZJU-UIUC Joint Institute. 
-- 💞️ I’m looking to collaborate on study.
+- 💞️ I’m looking to collaborate on coding. 
 - I'm currently learning Python and assembly language. If you're interested, reach out to me anytime! 
 <!---
 jouyhouy/jouyhouy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
